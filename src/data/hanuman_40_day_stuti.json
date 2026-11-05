@@ -1,0 +1,2702 @@
+{
+  "sankalp": {
+    "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/sankalp_ka_nam_jane.mp3",
+    "label": "संकल्प का नियम",
+    "lyrics": "sankalp_ka_nam_jane"
+  },
+  "days": [
+    {
+      "day": 1,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_1_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_1_pre"
+        },
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/ram_nam_jap.mp3",
+          "label": "180 बार श्री राम नाम जप",
+          "lyrics": "ram_nam_jap"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 2,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_2_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_2_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_ashtak.mp3",
+          "label": "हनुमान अष्टक",
+          "lyrics": "hanuman_ashtak"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_3_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_3_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/bajrang_ban.mp3",
+          "label": "बजरंग बाण",
+          "lyrics": "bajrang_ban"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_4_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_4_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 5,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_5_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_5_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 6,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_6_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_6_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 7,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_7_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_7_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 8,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_8_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_8_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 9,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_9_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_9_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 10,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_10_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_10_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 11,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_11_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_11_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 12,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_12_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_12_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 13,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_13_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_13_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 14,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_14_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_14_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 15,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_15_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_15_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 16,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_16_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_16_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 17,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_17_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_17_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 18,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_18_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_18_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 19,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_19_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_19_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 20,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_20_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_20_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 21,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_21_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_21_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 22,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_22_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_22_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 23,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_23_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_23_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 24,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_24_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_24_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 25,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_25_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_25_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 26,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_26_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_26_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 27,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_27_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_27_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 28,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_28_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_28_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 29,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_29_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_29_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 30,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_30_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_30_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 31,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_31_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_31_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 32,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_32_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_32_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 33,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_33_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_33_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 34,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_34_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_34_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 35,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_35_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_35_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 36,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_36_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_36_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 37,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_37_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_37_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 38,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_38_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_38_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 39,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_39_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_39_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": []
+    },
+    {
+      "day": 40,
+      "pre": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/day_40_pre.mp3",
+          "label": "प्रारंभिक मार्गदर्शन एवं संकल्प विधि",
+          "lyrics": "day_40_pre"
+        }
+      ],
+      "main": {
+        "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/hanuman_chalisa.mp3",
+        "label": "हनुमान चालीसा",
+        "lyrics": "hanuman_chalisa"
+      },
+      "post": [
+        {
+          "src": "https://audio.bhaktiamrit.org/Hanuman%20Stuti%2040%20Days/final_after_40_days_stuti.mp3",
+          "label": "40 दिन की स्तुति का समापन",
+          "lyrics": "final_after_40_days_stuti"
+        }
+      ]
+    }
+  ],
+  "lyrics": {
+    "sankalp_ka_nam_jane": [
+      {
+        "time": 0.0,
+        "text": "संकल्प शुरू करने से पहले विधि सुनें।"
+      },
+      {
+        "time": 3.3,
+        "text": "जय श्री राम। जय हनुमान।"
+      },
+      {
+        "time": 6.5,
+        "text": "प्रिय साधक,"
+      },
+      {
+        "time": 7.8,
+        "text": "आज आप अपने जीवन की एक अत्यंत पवित्र और दिव्य यात्रा का आरंभ करने जा रहे हैं।"
+      },
+      {
+        "time": 12.9,
+        "text": "अगले चालीस दिनों तक आप श्री हनुमान जी की कृपा प्राप्त करने,"
+      },
+      {
+        "time": 17.0,
+        "text": "अपने मन को सकारात्मक ऊर्जा से भरने"
+      },
+      {
+        "time": 20.2,
+        "text": "और अपने जीवन में शुभ परिवर्तन लाने के उद्देश्य से हनुमान चालीसा का नियमित पाठ करेंगे।"
+      },
+      {
+        "time": 26.3,
+        "text": "बहुत से लोग नहीं जानते कि हनुमान चालीसा पढ़ने का सही टाइमिंग और सही तरीका क्या होना चाहिए।"
+      },
+      {
+        "time": 32.7,
+        "text": "दरअसल शास्त्रों के अनुसार हनुमान जी सुबह सात बजे से शाम सात बजे तक श्री राम जी की सेवा और आराधना में व्यस्त रहते हैं।"
+      },
+      {
+        "time": 42.8,
+        "text": "और बहुत से लोग हनुमान चालीसा दिन में पढ़ते हैं, जो गलत तो नहीं है,"
+      },
+      {
+        "time": 48.1,
+        "text": "लेकिन दिन में पढ़ने से हमारी प्रार्थना खाली चली जाती है।"
+      },
+      {
+        "time": 52.5,
+        "text": "तो हनुमान चालीसा का सही तरीका और सही टाइमिंग यही है"
+      },
+      {
+        "time": 56.4,
+        "text": "कि आपको हनुमान चालीसा शाम सात बजे के बाद"
+      },
+      {
+        "time": 59.4,
+        "text": "अपने घर के मंदिर के सामने बैठकर दीपक प्रज्वलित करके पढ़नी चाहिए।"
+      },
+      {
+        "time": 64.1,
+        "text": "अब बात करते हैं सही तरीके की।"
+      },
+      {
+        "time": 66.9,
+        "text": "तो संकल्प लेने से पहले किसी शांत स्थान पर बैठ जाएँ।"
+      },
+      {
+        "time": 70.5,
+        "text": "यदि संभव हो तो अपने सामने हनुमान जी या श्री राम दरबार का चित्र रखें।"
+      },
+      {
+        "time": 76.2,
+        "text": "एक दीपक या अगरबत्ती प्रज्वलित कर लें।"
+      },
+      {
+        "time": 79.3,
+        "text": "हनुमान चालीसा पढ़ते समय एक कॉपर या स्टील के कलश में शुद्ध जल भर लें।"
+      },
+      {
+        "time": 84.5,
+        "text": "पाठ के समय उसे अपने पास रखें"
+      },
+      {
+        "time": 87.0,
+        "text": "और जब चालीसा पूरा हो जाए, तो उस जल को घर के सभी सदस्यों को पिला दें।"
+      },
+      {
+        "time": 92.3,
+        "text": "ये जल हनुमान चालीसा के शब्दों से ऊर्जावान हो जाता है"
+      },
+      {
+        "time": 95.8,
+        "text": "और शक्ति, शांति और संकट नाश के लिए बेहद लाभकारी है।"
+      },
+      {
+        "time": 101.4,
+        "text": "नमस्ते।"
+      },
+      {
+        "time": 102.5,
+        "text": "आप इस समय जहाँ कहीं भी हों,"
+      },
+      {
+        "time": 105.0,
+        "text": "कुछ क्षण के लिए स्वयं को स्थिर करें।"
+      },
+      {
+        "time": 107.8,
+        "text": "अपने मन को शांत करें"
+      },
+      {
+        "time": 109.2,
+        "text": "और पूर्ण श्रद्धा के साथ आगे बताई जा रही संकल्प विधि का पालन करें।"
+      },
+      {
+        "time": 113.9,
+        "text": "आइए, हनुमान जी का स्मरण करते हुए"
+      },
+      {
+        "time": 117.0,
+        "text": "अपने चालीस दिवसीय संकल्प की शुभ शुरुआत करें।"
+      },
+      {
+        "time": 120.3,
+        "text": "अपनी रीढ़ सीधी रखें"
+      },
+      {
+        "time": 122.3,
+        "text": "और दोनों आँखें धीरे से बंद कर लें।"
+      },
+      {
+        "time": 124.7,
+        "text": "अब तीन बार गहरी साँस लें।"
+      },
+      {
+        "time": 127.0,
+        "text": "श्वास अंदर लें"
+      },
+      {
+        "time": 128.5,
+        "text": "और धीरे-धीरे बाहर छोड़ें।"
+      },
+      {
+        "time": 130.5,
+        "text": "एक बार फिर गहरी साँस लें और छोड़ दें।"
+      },
+      {
+        "time": 134.3,
+        "text": "अब अपने मन को शांत करें और हनुमान जी का स्मरण करें।"
+      },
+      {
+        "time": 137.7,
+        "text": "अपने दोनों हाथ जोड़कर मन ही मन या मेरे साथ दोहराएँ —"
+      },
+      {
+        "time": 141.9,
+        "text": "हे प्रभु, श्री राम के परमभक्त, संकटमोचन श्री हनुमान जी,"
+      },
+      {
+        "time": 146.9,
+        "text": "मैं (अपना नाम लें),"
+      },
+      {
+        "time": 148.9,
+        "text": "आज पूर्ण श्रद्धा, विश्वास और समर्पण के साथ"
+      },
+      {
+        "time": 152.3,
+        "text": "40 दिनों तक नियमित हनुमान चालीसा पाठ करने का संकल्प लेता हूँ।"
+      },
+      {
+        "time": 156.6,
+        "text": "हे पवनपुत्र हनुमान, मुझे इस संकल्प को पूर्ण करने की शक्ति, अनुशासन और दृढ़ता प्रदान करें।"
+      },
+      {
+        "time": 163.4,
+        "text": "मेरे मन से भय, चिंता, नकारात्मकता और आलस्य को दूर करें।"
+      },
+      {
+        "time": 167.2,
+        "text": "मेरे जीवन में सुख, शांति, स्वास्थ्य, समृद्धि और सद्बुद्धि का संचार करें।"
+      },
+      {
+        "time": 173.6,
+        "text": "मैं यह संकल्प केवल अपनी इच्छाओं की पूर्ति के लिए नहीं,"
+      },
+      {
+        "time": 177.8,
+        "text": "बल्कि आत्मिक उन्नति, ईश्वर भक्ति और जीवन में सकारात्मक परिवर्तन के लिए ले रहा हूँ।"
+      },
+      {
+        "time": 184.4,
+        "text": "हे बजरंगबली, अगले 40 दिनों तक मुझे अपने चरणों में बनाए रखें और मेरी साधना को सफल बनाएँ।"
+      },
+      {
+        "time": 190.9,
+        "text": "जय श्री राम। जय हनुमान।"
+      }
+    ],
+    "day_1_pre": [
+      {
+        "time": 0.1,
+        "text": "दिन एक — जय श्री राम।"
+      },
+      {
+        "time": 2.5,
+        "text": "आज आपके हनुमान चालीसा संकल्प का पहला दिन है।"
+      },
+      {
+        "time": 6.1,
+        "text": "आप उन सौभाग्यशाली आत्माओं में से एक हैं, जिन्होंने अपने जीवन में सकारात्मक परिवर्तन का यह दिव्य निर्णय लिया है।"
+      },
+      {
+        "time": 13.5,
+        "text": "आज से अगले चालीस दिनों तक आप स्वयं को प्रभु श्री राम के परम भक्त हनुमान जी की शरण में समर्पित कर रहे हैं।"
+      },
+      {
+        "time": 20.7,
+        "text": "पूर्ण श्रद्धा और विश्वास के साथ अपना संकल्प प्रारंभ करें।"
+      },
+      {
+        "time": 25.7,
+        "text": "हनुमान चालीसा के संकल्प को पूर्ण श्रद्धा और सफलता के साथ संपन्न करने के लिए सबसे पहले प्रभु श्री राम के पावन नाम का स्मरण करना आवश्यक है,"
+      },
+      {
+        "time": 35.6,
+        "text": "क्योंकि जहाँ श्री राम का नाम होता है, वहाँ स्वयं भक्त शिरोमणि हनुमान जी की कृपा सहज ही प्राप्त होती है।"
+      },
+      {
+        "time": 43.6,
+        "text": "इसलिए अब अपने मन को शांत और एकाग्र करें।"
+      },
+      {
+        "time": 47.0,
+        "text": "सभी चिंताओं और विचारों को कुछ समय के लिए विराम दें और पूर्ण श्रद्धा के साथ प्रभु श्री राम का स्मरण करें।"
+      },
+      {
+        "time": 54.3,
+        "text": "अब हम सब मिलकर 108 बार श्री राम नाम का जप करेंगे।"
+      },
+      {
+        "time": 59.4,
+        "text": "हर बार राम नाम का उच्चारण करते हुए यह भाव रखें कि प्रभु की कृपा, शांति, शक्ति और सकारात्मक ऊर्जा आपके जीवन में प्रवेश कर रही है।"
+      },
+      {
+        "time": 68.3,
+        "text": "तो आइए, पूर्ण श्रद्धा और विश्वास के साथ राम नाम जप प्रारंभ करें।"
+      },
+      {
+        "time": 73.3,
+        "text": "बोलिए…"
+      }
+    ],
+    "ram_nam_jap": [
+      {
+        "time": 12.4,
+        "text": "राम — 1 / 108"
+      },
+      {
+        "time": 15.2,
+        "text": "राम — 2 / 108"
+      },
+      {
+        "time": 17.9,
+        "text": "राम — 3 / 108"
+      },
+      {
+        "time": 20.7,
+        "text": "राम — 4 / 108"
+      },
+      {
+        "time": 23.4,
+        "text": "राम — 5 / 108"
+      },
+      {
+        "time": 26.2,
+        "text": "राम — 6 / 108"
+      },
+      {
+        "time": 28.9,
+        "text": "राम — 7 / 108"
+      },
+      {
+        "time": 31.7,
+        "text": "राम — 8 / 108"
+      },
+      {
+        "time": 34.5,
+        "text": "राम — 9 / 108"
+      },
+      {
+        "time": 37.2,
+        "text": "राम — 10 / 108"
+      },
+      {
+        "time": 40,
+        "text": "राम — 11 / 108"
+      },
+      {
+        "time": 42.7,
+        "text": "राम — 12 / 108"
+      },
+      {
+        "time": 45.5,
+        "text": "राम — 13 / 108"
+      },
+      {
+        "time": 48.2,
+        "text": "राम — 14 / 108"
+      },
+      {
+        "time": 51,
+        "text": "राम — 15 / 108"
+      },
+      {
+        "time": 53.8,
+        "text": "राम — 16 / 108"
+      },
+      {
+        "time": 56.5,
+        "text": "राम — 17 / 108"
+      },
+      {
+        "time": 59.3,
+        "text": "राम — 18 / 108"
+      },
+      {
+        "time": 62,
+        "text": "राम — 19 / 108"
+      },
+      {
+        "time": 64.8,
+        "text": "राम — 20 / 108"
+      },
+      {
+        "time": 67.5,
+        "text": "राम — 21 / 108"
+      },
+      {
+        "time": 70.3,
+        "text": "राम — 22 / 108"
+      },
+      {
+        "time": 73.1,
+        "text": "राम — 23 / 108"
+      },
+      {
+        "time": 75.8,
+        "text": "राम — 24 / 108"
+      },
+      {
+        "time": 78.6,
+        "text": "राम — 25 / 108"
+      },
+      {
+        "time": 81.3,
+        "text": "राम — 26 / 108"
+      },
+      {
+        "time": 84.1,
+        "text": "राम — 27 / 108"
+      },
+      {
+        "time": 86.9,
+        "text": "राम — 28 / 108"
+      },
+      {
+        "time": 89.6,
+        "text": "राम — 29 / 108"
+      },
+      {
+        "time": 92.4,
+        "text": "राम — 30 / 108"
+      },
+      {
+        "time": 95.1,
+        "text": "राम — 31 / 108"
+      },
+      {
+        "time": 97.9,
+        "text": "राम — 32 / 108"
+      },
+      {
+        "time": 100.6,
+        "text": "राम — 33 / 108"
+      },
+      {
+        "time": 103.4,
+        "text": "राम — 34 / 108"
+      },
+      {
+        "time": 106.2,
+        "text": "राम — 35 / 108"
+      },
+      {
+        "time": 108.9,
+        "text": "राम — 36 / 108"
+      },
+      {
+        "time": 111.7,
+        "text": "राम — 37 / 108"
+      },
+      {
+        "time": 114.4,
+        "text": "राम — 38 / 108"
+      },
+      {
+        "time": 117.2,
+        "text": "राम — 39 / 108"
+      },
+      {
+        "time": 119.9,
+        "text": "राम — 40 / 108"
+      },
+      {
+        "time": 122.7,
+        "text": "राम — 41 / 108"
+      },
+      {
+        "time": 125.5,
+        "text": "राम — 42 / 108"
+      },
+      {
+        "time": 128.2,
+        "text": "राम — 43 / 108"
+      },
+      {
+        "time": 131,
+        "text": "राम — 44 / 108"
+      },
+      {
+        "time": 133.7,
+        "text": "राम — 45 / 108"
+      },
+      {
+        "time": 136.5,
+        "text": "राम — 46 / 108"
+      },
+      {
+        "time": 139.2,
+        "text": "राम — 47 / 108"
+      },
+      {
+        "time": 142,
+        "text": "राम — 48 / 108"
+      },
+      {
+        "time": 144.8,
+        "text": "राम — 49 / 108"
+      },
+      {
+        "time": 147.5,
+        "text": "राम — 50 / 108"
+      },
+      {
+        "time": 150.3,
+        "text": "राम — 51 / 108"
+      },
+      {
+        "time": 153,
+        "text": "राम — 52 / 108"
+      },
+      {
+        "time": 155.8,
+        "text": "राम — 53 / 108"
+      },
+      {
+        "time": 158.5,
+        "text": "राम — 54 / 108"
+      },
+      {
+        "time": 161.3,
+        "text": "राम — 55 / 108"
+      },
+      {
+        "time": 164.1,
+        "text": "राम — 56 / 108"
+      },
+      {
+        "time": 166.8,
+        "text": "राम — 57 / 108"
+      },
+      {
+        "time": 169.6,
+        "text": "राम — 58 / 108"
+      },
+      {
+        "time": 172.3,
+        "text": "राम — 59 / 108"
+      },
+      {
+        "time": 175.1,
+        "text": "राम — 60 / 108"
+      },
+      {
+        "time": 177.8,
+        "text": "राम — 61 / 108"
+      },
+      {
+        "time": 180.6,
+        "text": "राम — 62 / 108"
+      },
+      {
+        "time": 183.4,
+        "text": "राम — 63 / 108"
+      },
+      {
+        "time": 186.1,
+        "text": "राम — 64 / 108"
+      },
+      {
+        "time": 188.9,
+        "text": "राम — 65 / 108"
+      },
+      {
+        "time": 191.6,
+        "text": "राम — 66 / 108"
+      },
+      {
+        "time": 194.4,
+        "text": "राम — 67 / 108"
+      },
+      {
+        "time": 197.1,
+        "text": "राम — 68 / 108"
+      },
+      {
+        "time": 199.9,
+        "text": "राम — 69 / 108"
+      },
+      {
+        "time": 202.7,
+        "text": "राम — 70 / 108"
+      },
+      {
+        "time": 205.4,
+        "text": "राम — 71 / 108"
+      },
+      {
+        "time": 208.2,
+        "text": "राम — 72 / 108"
+      },
+      {
+        "time": 210.9,
+        "text": "राम — 73 / 108"
+      },
+      {
+        "time": 213.7,
+        "text": "राम — 74 / 108"
+      },
+      {
+        "time": 216.4,
+        "text": "राम — 75 / 108"
+      },
+      {
+        "time": 219.2,
+        "text": "राम — 76 / 108"
+      },
+      {
+        "time": 222,
+        "text": "राम — 77 / 108"
+      },
+      {
+        "time": 224.7,
+        "text": "राम — 78 / 108"
+      },
+      {
+        "time": 227.5,
+        "text": "राम — 79 / 108"
+      },
+      {
+        "time": 230.2,
+        "text": "राम — 80 / 108"
+      },
+      {
+        "time": 233,
+        "text": "राम — 81 / 108"
+      },
+      {
+        "time": 235.8,
+        "text": "राम — 82 / 108"
+      },
+      {
+        "time": 238.5,
+        "text": "राम — 83 / 108"
+      },
+      {
+        "time": 241.3,
+        "text": "राम — 84 / 108"
+      },
+      {
+        "time": 244,
+        "text": "राम — 85 / 108"
+      },
+      {
+        "time": 246.8,
+        "text": "राम — 86 / 108"
+      },
+      {
+        "time": 249.5,
+        "text": "राम — 87 / 108"
+      },
+      {
+        "time": 252.3,
+        "text": "राम — 88 / 108"
+      },
+      {
+        "time": 255.1,
+        "text": "राम — 89 / 108"
+      },
+      {
+        "time": 257.8,
+        "text": "राम — 90 / 108"
+      },
+      {
+        "time": 260.6,
+        "text": "राम — 91 / 108"
+      },
+      {
+        "time": 263.3,
+        "text": "राम — 92 / 108"
+      },
+      {
+        "time": 266.1,
+        "text": "राम — 93 / 108"
+      },
+      {
+        "time": 268.8,
+        "text": "राम — 94 / 108"
+      },
+      {
+        "time": 271.6,
+        "text": "राम — 95 / 108"
+      },
+      {
+        "time": 274.4,
+        "text": "राम — 96 / 108"
+      },
+      {
+        "time": 277.1,
+        "text": "राम — 97 / 108"
+      },
+      {
+        "time": 279.9,
+        "text": "राम — 98 / 108"
+      },
+      {
+        "time": 282.6,
+        "text": "राम — 99 / 108"
+      },
+      {
+        "time": 285.4,
+        "text": "राम — 100 / 108"
+      },
+      {
+        "time": 288.1,
+        "text": "राम — 101 / 108"
+      },
+      {
+        "time": 290.9,
+        "text": "राम — 102 / 108"
+      },
+      {
+        "time": 293.7,
+        "text": "राम — 103 / 108"
+      },
+      {
+        "time": 296.4,
+        "text": "राम — 104 / 108"
+      },
+      {
+        "time": 299.2,
+        "text": "राम — 105 / 108"
+      },
+      {
+        "time": 301.9,
+        "text": "राम — 106 / 108"
+      },
+      {
+        "time": 304.7,
+        "text": "राम — 107 / 108"
+      },
+      {
+        "time": 307.4,
+        "text": "राम — 108 / 108"
+      }
+    ],
+    "hanuman_chalisa": [
+      {
+        "time": 0,
+        "text": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि। बरनउँ रघुबर बिमल जसु, जो दायकु फल चारि॥"
+      },
+      {
+        "time": 22.3,
+        "text": "बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार। बल बुद्धि विद्या देहु मोहिं, हरहु कलेस बिकार॥"
+      },
+      {
+        "time": 48.8,
+        "text": "जय हनुमान ज्ञान गुन सागर। जय कपीस तिहुँ लोक उजागर॥"
+      },
+      {
+        "time": 59.3,
+        "text": "राम दूत अतुलित बल धामा। अंजनि-पुत्र पवनसुत नामा॥"
+      },
+      {
+        "time": 70,
+        "text": "महाबीर बिक्रम बजरंगी। कुमति निवार सुमति के संगी॥"
+      },
+      {
+        "time": 81.2,
+        "text": "कंचन बरन बिराज सुबेसा। कानन कुंडल कुंचित केसा॥"
+      },
+      {
+        "time": 91.9,
+        "text": "हाथ बज्र औ ध्वजा बिराजे। काँधे मूँज जनेउ साजे॥"
+      },
+      {
+        "time": 102.4,
+        "text": "शंकर सुवन केसरीनंदन। तेज प्रताप महा जग बंदन॥"
+      },
+      {
+        "time": 114.9,
+        "text": "विद्यावान गुनी अति चातुर। राम काज करिबे को आतुर॥"
+      },
+      {
+        "time": 124.2,
+        "text": "प्रभु चरित्र सुनिबे को रसिया। राम लखन सीता मन बसिया॥"
+      },
+      {
+        "time": 134.8,
+        "text": "सूक्ष्म रूप धरि सियहिं दिखावा। बिकट रूप धरि लंक जरावा॥"
+      },
+      {
+        "time": 145.6,
+        "text": "भीम रूप धरि असुर सँहारे। रामचंद्र के काज सँवारे॥"
+      },
+      {
+        "time": 156,
+        "text": "लाय सजीवन लखन जियाये। श्रीरघुबीर हरषि उर लाये॥"
+      },
+      {
+        "time": 166.9,
+        "text": "रघुपति कीन्ही बहुत बड़ाई। तुम मम प्रिय भरतहि सम भाई॥"
+      },
+      {
+        "time": 177.2,
+        "text": "सहस बदन तुम्हरो जस गावैं। अस कहि श्रीपति कंठ लगावैं॥"
+      },
+      {
+        "time": 188.1,
+        "text": "सनकादिक ब्रह्मादि मुनीसा। नारद सारद सहित अहीसा॥"
+      },
+      {
+        "time": 198.7,
+        "text": "जम कुबेर दिगपाल जहाँ ते। कबि कोबिद कहि सके कहाँ ते॥"
+      },
+      {
+        "time": 210.1,
+        "text": "तुम उपकार सुग्रीवहिं कीन्हा। राम मिलाय राज पद दीन्हा॥"
+      },
+      {
+        "time": 220.7,
+        "text": "तुम्हरो मंत्र बिभीषन माना। लंकेश्वर भए सब जग जाना॥"
+      },
+      {
+        "time": 231.4,
+        "text": "जुग सहस्र जोजन पर भानु। लील्यो ताहि मधुर फल जानू॥"
+      },
+      {
+        "time": 242.3,
+        "text": "प्रभु मुद्रिका मेलि मुख माहीं। जलधि लांघि गये अचरज नाहीं॥"
+      },
+      {
+        "time": 253,
+        "text": "दुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥"
+      },
+      {
+        "time": 263.5,
+        "text": "राम दुआरे तुम रखवारे। होत न आज्ञा बिनु पैसारे॥"
+      },
+      {
+        "time": 274.2,
+        "text": "सब सुख लहै तुम्हारी सरना। तुम रक्षक काहू को डर ना॥"
+      },
+      {
+        "time": 285,
+        "text": "आपन तेज सम्हारो आपै। तीनों लोक हाँक तें काँपै॥"
+      },
+      {
+        "time": 295.8,
+        "text": "भूत पिशाच निकट नहिं आवै। महाबीर जब नाम सुनावै॥"
+      },
+      {
+        "time": 306.3,
+        "text": "नासै रोग हरै सब पीरा। जपत निरंतर हनुमत बीरा॥"
+      },
+      {
+        "time": 316.8,
+        "text": "संकट तें हनुमान छुड़ावै। मन क्रम बचन ध्यान जो लावै॥"
+      },
+      {
+        "time": 327.6,
+        "text": "सब पर राम तपस्वी राजा। तिन के काज सकल तुम साजा॥"
+      },
+      {
+        "time": 338.6,
+        "text": "और मनोरथ जो कोई लावै। सोइ अमित जीवन फल पावै॥"
+      },
+      {
+        "time": 349.1,
+        "text": "चारों जुग परताप तुम्हारा। है परसिद्ध जगत उजियारा॥"
+      },
+      {
+        "time": 359.6,
+        "text": "साधु संत के तुम रखवारे। असुर निकंदन राम दुलारे॥"
+      },
+      {
+        "time": 370.1,
+        "text": "अष्ट सिद्धि नौ निधि के दाता। अस बर दीन जानकी माता॥"
+      },
+      {
+        "time": 381.1,
+        "text": "राम रसायन तुम्हरे पासा। सदा रहो रघुपति के दासा॥"
+      },
+      {
+        "time": 391.5,
+        "text": "तुम्हरे भजन राम को पावै। जनम जनम के दुख बिसरावै॥"
+      },
+      {
+        "time": 402.1,
+        "text": "अंतकाल रघुबर पुर जाई। जहाँ जन्म हरिभक्त कहाई॥"
+      },
+      {
+        "time": 412.4,
+        "text": "और देवता चित्त न धरई। हनुमत सेइ सर्ब सुख करई॥"
+      },
+      {
+        "time": 423.4,
+        "text": "संकट कटै मिटै सब पीरा। जो सुमिरै हनुमत बलबीरा॥"
+      },
+      {
+        "time": 434.1,
+        "text": "जय जय जय हनुमान गोसाईं। कृपा करहु गुरुदेव की नाईं॥"
+      },
+      {
+        "time": 444.4,
+        "text": "जो सत बार पाठ कर कोई। छूटहि बंदि महा सुख होई॥"
+      },
+      {
+        "time": 454.9,
+        "text": "जो यह पढ़े हनुमान चालीसा। होय सिद्धि साखी गौरीसा॥"
+      },
+      {
+        "time": 466.2,
+        "text": "तुलसीदास सदा हरि चेरा। कीजै नाथ हृदय महँ डेरा॥"
+      },
+      {
+        "time": 483.9,
+        "text": "पवनतनय संकट हरन, मंगल मूरति रूप। राम लखन सीता सहित, हृदय बसहु सुर भूप॥"
+      }
+    ],
+    "day_2_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन दो — जय बजरंगबली।"
+      },
+      {
+        "time": 2.0,
+        "text": "आज आपके संकल्प का दूसरा दिन है।"
+      },
+      {
+        "time": 4.1,
+        "text": "याद रखिए, हर बड़ा परिवर्तन एक छोटे लेकिन निरंतर कदम से शुरू होता है।"
+      },
+      {
+        "time": 9.8,
+        "text": "कल आपने जो शुरुआत की थी, आज उसे और दृढ़ बनाना है।"
+      },
+      {
+        "time": 13.6,
+        "text": "आज हनुमान चालीसा के पाठ के पश्चात हम हनुमान अष्टक का भी पाठ करेंगे।"
+      },
+      {
+        "time": 18.6,
+        "text": "हनुमान अष्टक का पाठ जीवन के संकटों को दूर करने, मन को साहस और आत्मविश्वास प्रदान करने"
+      },
+      {
+        "time": 26.0,
+        "text": "तथा बजरंगबली की कृपा प्राप्त करने का एक श्रेष्ठ माध्यम माना जाता है।"
+      },
+      {
+        "time": 31.1,
+        "text": "हनुमान जी की कृपा आपके साथ है।"
+      },
+      {
+        "time": 33.5,
+        "text": "श्रद्धा और समर्पण के साथ आज की चालीसा आरंभ करें।"
+      }
+    ],
+    "hanuman_ashtak": [
+      {
+        "time": 18.8,
+        "text": "बाल समय रबि भक्षि लियो तब, तीनहुँ लोक भयो अँधियारो।"
+      },
+      {
+        "time": 27.5,
+        "text": "ताहि सों त्रास भयो जग को, यह संकट काहु सों जात न टारो॥"
+      },
+      {
+        "time": 35.9,
+        "text": "देवन आनि करी बिनती तब, छाँड़ि दियो रबि कष्ट निवारो।"
+      },
+      {
+        "time": 44.4,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      },
+      {
+        "time": 63.1,
+        "text": "बालि की त्रास कपीस बसै गिरि, जात महाप्रभु पंथ निहारो।"
+      },
+      {
+        "time": 71.8,
+        "text": "चौंकि महामुनि साप दियो तब, चाहिय कौन बिचार बिचारो॥"
+      },
+      {
+        "time": 80.4,
+        "text": "कै द्विज रूप लिवाय महाप्रभु, सो तुम दास के सोक निवारो।"
+      },
+      {
+        "time": 88.9,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      },
+      {
+        "time": 105.8,
+        "text": "अंगद के सँग लेन गये सिय, खोज कपीस यह बैन उचारो।"
+      },
+      {
+        "time": 114.3,
+        "text": "जीवत ना बचिहौ हम सो जु, बिना सुधि लाय इहाँ पगु धारो॥"
+      },
+      {
+        "time": 122.9,
+        "text": "हेरि थके तट सिंधु सबै तब, लाय सिया-सुधि प्रान उबारो।"
+      },
+      {
+        "time": 131.5,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      },
+      {
+        "time": 150.4,
+        "text": "रावन त्रास दई सिय को सब, राक्षसि सों कहि सोक निवारो।"
+      },
+      {
+        "time": 159.0,
+        "text": "ताहि समय हनुमान महाप्रभु, जाय महा रजनीचर मारो॥"
+      },
+      {
+        "time": 167.5,
+        "text": "चाहत सीय असोक सों आगि सु, दै प्रभु मुद्रिका सोक निवारो।"
+      },
+      {
+        "time": 176.0,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      },
+      {
+        "time": 192.6,
+        "text": "बान लग्यो उर लछिमन के तब, प्रान तजे सुत रावन मारो।"
+      },
+      {
+        "time": 201.4,
+        "text": "लै गृह बैद्य सुषेन समेत, तबै गिरि द्रोन सु बीर उपारो॥"
+      },
+      {
+        "time": 210.0,
+        "text": "आनि सजीवन हाथ दई तब, लछिमन के तुम प्रान उबारो।"
+      },
+      {
+        "time": 218.7,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      },
+      {
+        "time": 237.5,
+        "text": "रावन जुद्ध अजान कियो तब, नाग कि फाँस सबै सिर डारो।"
+      },
+      {
+        "time": 246.1,
+        "text": "श्रीरघुनाथ समेत सबै दल, मोह भयो यह संकट भारो॥"
+      },
+      {
+        "time": 254.7,
+        "text": "आनि खगेस तबै हनुमान जु, बंधन काटि सुत्रास निवारो।"
+      },
+      {
+        "time": 263.3,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      },
+      {
+        "time": 276.1,
+        "text": "बंधु समेत जबै अहिरावन, लै रघुनाथ पताल सिधारो।"
+      },
+      {
+        "time": 288.6,
+        "text": "देबिहिं पूजि भली बिधि सों बलि, देउ सबै मिलि मंत्र बिचारो॥"
+      },
+      {
+        "time": 297.1,
+        "text": "जाय सहाय भयो तब ही, अहिरावन सैन्य समेत सँहारो।"
+      },
+      {
+        "time": 305.7,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      },
+      {
+        "time": 322.3,
+        "text": "काज किये बड़ देवन के तुम, बीर महाप्रभु देखि बिचारो।"
+      },
+      {
+        "time": 333.2,
+        "text": "कौन सो संकट मोर गरीब को, जो तुमसों नहिं जात है टारो॥"
+      },
+      {
+        "time": 341.8,
+        "text": "बेगि हरो हनुमान महाप्रभु, जो कछु संकट होय हमारो।"
+      },
+      {
+        "time": 350.6,
+        "text": "को नहिं जानत है जग में कपि, संकटमोचन नाम तिहारो॥"
+      }
+    ],
+    "day_3_pre": [
+      {
+        "time": 0.0,
+        "text": "आज आपके संकल्प का तीसरा दिन है।"
+      },
+      {
+        "time": 2.2,
+        "text": "हो सकता है मन कभी-कभी भटकने का प्रयास करे,"
+      },
+      {
+        "time": 5.1,
+        "text": "लेकिन यही समय है जब आपकी भक्ति की परीक्षा होती है।"
+      },
+      {
+        "time": 9.1,
+        "text": "आज हम हनुमान चालीसा के पाठ के पश्चात हनुमान बाण का भी पाठ करेंगे।"
+      },
+      {
+        "time": 14.2,
+        "text": "हनुमान बाण को संकटों, भय और नकारात्मक शक्तियों से रक्षा प्रदान करने वाला अत्यंत प्रभावशाली स्तोत्र माना जाता है।"
+      },
+      {
+        "time": 22.7,
+        "text": "श्रद्धा और विश्वास के साथ किया गया इसका पाठ साधक के मन में साहस, आत्मबल और हनुमान जी के प्रति अटूट विश्वास को जागृत करता है।"
+      },
+      {
+        "time": 33.2,
+        "text": "तो आइए, अपने मन को शांत और एकाग्र करें तथा पूर्ण समर्पण के साथ आज की साधना प्रारंभ करें।"
+      }
+    ],
+    "bajrang_ban": [
+      {
+        "time": 3.2,
+        "text": "निश्चय प्रेम प्रतीति ते, बिनय करैं सनमान। तेहि के कारज सकल सुभ, सिद्ध करैं हनुमान॥"
+      },
+      {
+        "time": 27.4,
+        "text": "जय हनुमंत संत हितकारी। सुन लीजै प्रभु अरज हमारी॥"
+      },
+      {
+        "time": 33.9,
+        "text": "जन के काज बिलंब न कीजै। आतुर दौरि महा सुख दीजै॥"
+      },
+      {
+        "time": 38.2,
+        "text": "जैसे कूदि सिंधु महिपारा। सुरसा बदन पैठि बिस्तारा॥"
+      },
+      {
+        "time": 42.6,
+        "text": "आगे जाय लंकिनी रोका। मारेहु लात गई सुरलोका॥"
+      },
+      {
+        "time": 47.0,
+        "text": "जाय बिभीषन को सुख दीन्हा। सीता निरखि परमपद लीन्हा॥"
+      },
+      {
+        "time": 51.3,
+        "text": "बाग उजारि सिंधु महँ बोरा। अति आतुर जमकातर तोरा॥"
+      },
+      {
+        "time": 55.6,
+        "text": "अक्षय कुमार मारि संहारा। लूम लपेटि लंक को जारा॥"
+      },
+      {
+        "time": 60.0,
+        "text": "लाह समान लंक जरि गई। जय जय धुनि सुरपुर नभ भई॥"
+      },
+      {
+        "time": 64.4,
+        "text": "अब बिलंब केहि कारन स्वामी। कृपा करहु उर अंतरयामी॥"
+      },
+      {
+        "time": 68.8,
+        "text": "जय जय लखन प्रान के दाता। आतुर ह्वै दुख करहु निपाता॥"
+      },
+      {
+        "time": 73.1,
+        "text": "जै गिरिधर जै जै सुखसागर। सुर-समूह-समरथ भट-नागर॥"
+      },
+      {
+        "time": 77.5,
+        "text": "ॐ हनु हनु हनु हनुमंत हठीले। बैरिहि मारु बज्र की कीले॥"
+      },
+      {
+        "time": 81.9,
+        "text": "गदा बज्र लै बैरिहि मारो। महाराज प्रभु दास उबारो॥"
+      },
+      {
+        "time": 86.2,
+        "text": "ॐकार हुंकार प्रभु धावो। बज्र गदा हनु बिलंब न लावो॥"
+      },
+      {
+        "time": 90.5,
+        "text": "ॐ ह्रीं ह्रीं ह्रीं हनुमंत कपीसा। ॐ हुं हुं हुं हनु अरि उर सीसा॥"
+      },
+      {
+        "time": 95.0,
+        "text": "सत्य होहु हरि सपथ पाइ कै। राम दूत धरु मारु धाइ कै॥"
+      },
+      {
+        "time": 98.8,
+        "text": "जय जय जय हनुमंत अगाधा। दुख पावत जन केहि अपराधा॥"
+      },
+      {
+        "time": 103.8,
+        "text": "पूजा जप तप नेम अचारा। नहिं जानत कछु दास तुम्हारा॥"
+      },
+      {
+        "time": 108.1,
+        "text": "बन उपबन मग गिरि गृह माहीं। तुम्हरे बल हम डरपत नाहीं॥"
+      },
+      {
+        "time": 112.5,
+        "text": "पाँय परौं कर जोरि मनावौं। यहि अवसर अब केहि गोहरावौं॥"
+      },
+      {
+        "time": 116.8,
+        "text": "जय अंजनि कुमार बलवंता। शंकरसुवन बीर हनुमंता॥"
+      },
+      {
+        "time": 121.2,
+        "text": "बदन कराल काल-कुल-घालक। राम सहाय सदा प्रतिपालक॥"
+      },
+      {
+        "time": 125.5,
+        "text": "भूत, प्रेत, पिसाच निसाचर। अगिन बेताल काल मारी मर॥"
+      },
+      {
+        "time": 129.9,
+        "text": "इन्हें मारु, तोहि सपथ राम की। राखु नाथ मरजाद नाम की॥"
+      },
+      {
+        "time": 134.2,
+        "text": "जनकसुता हरि दास कहावौ। ताकी सपथ बिलंब न लावौ॥"
+      },
+      {
+        "time": 138.6,
+        "text": "जै जै जै धुनि होत अकासा। सुमिरत होय दुसह दुख नासा॥"
+      },
+      {
+        "time": 142.9,
+        "text": "चरन सरन करि जोरि मनावौं। यहि औसर अब केहि गोहरावौं॥"
+      },
+      {
+        "time": 147.3,
+        "text": "उठु, उठु, चलु, तोहि राम दुहाई। पायँ परौं, कर जोरि मनाई॥"
+      },
+      {
+        "time": 151.7,
+        "text": "ॐ चं चं चं चं चपल चलंता। ॐ हनु हनु हनु हनु हनुमंता॥"
+      },
+      {
+        "time": 156.1,
+        "text": "ॐ हं हं हाँक देत कपि चंचल। ॐ सं सं सहमि पराने खल-दल॥"
+      },
+      {
+        "time": 160.4,
+        "text": "अपने जन को तुरत उबारौ। सुमिरत होय आनंद हमारौ॥"
+      },
+      {
+        "time": 164.8,
+        "text": "यह बजरंग-बाण जेहि मारै। ताहि कहौ फिरि कवन उबारै॥"
+      },
+      {
+        "time": 169.0,
+        "text": "पाठ करै बजरंग-बाण की। हनुमत रक्षा करै प्रान की॥"
+      },
+      {
+        "time": 173.5,
+        "text": "यह बजरंग बाण जो जापैं। तासों भूत-प्रेत सब कापैं॥"
+      },
+      {
+        "time": 178.0,
+        "text": "धूप देय जो जपै हमेसा। ताके तन नहिं रहै कलेसा॥"
+      },
+      {
+        "time": 182.2,
+        "text": "॥ जय हनुमान ॥"
+      }
+    ],
+    "day_4_pre": [
+      {
+        "time": 0.1,
+        "text": "जय हनुमान।"
+      },
+      {
+        "time": 1.6,
+        "text": "आज चौथा दिन है।"
+      },
+      {
+        "time": 2.9,
+        "text": "आप अपने संकल्प को निरंतर निभा रहे हैं। इसके लिए स्वयं को बधाई दें।"
+      },
+      {
+        "time": 7.7,
+        "text": "अनुशासन ही सफलता का आधार है,"
+      },
+      {
+        "time": 9.9,
+        "text": "और भक्ति का मार्ग भी अनुशासन से ही प्रकाशित होता है।"
+      },
+      {
+        "time": 13.4,
+        "text": "आज का पाठ पूरी एकाग्रता और प्रेम के साथ करें।"
+      }
+    ],
+    "day_5_pre": [
+      {
+        "time": 0.2,
+        "text": "दिन पाँच — जय बजरंगबली।"
+      },
+      {
+        "time": 2.5,
+        "text": "आज आपके संकल्प का पाँचवाँ दिन है।"
+      },
+      {
+        "time": 5.6,
+        "text": "याद रखिए, जब भक्त एक कदम प्रभु की ओर बढ़ता है, तो प्रभु सौ कदम उसकी ओर बढ़ते हैं।"
+      },
+      {
+        "time": 12.3,
+        "text": "आज अपने हृदय में विश्वास जगाइए कि हनुमान जी आपकी सभी बाधाओं को दूर करने का मार्ग बना रहे हैं।"
+      }
+    ],
+    "day_6_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन छह — जय श्री राम।"
+      },
+      {
+        "time": 2.4,
+        "text": "आज छठा दिन है।"
+      },
+      {
+        "time": 4.0,
+        "text": "धीरे-धीरे आपका मन इस दिव्य साधना से जुड़ रहा है।"
+      },
+      {
+        "time": 7.3,
+        "text": "अपने भीतर हो रहे सकारात्मक बदलावों को महसूस करें।"
+      },
+      {
+        "time": 10.8,
+        "text": "आज का पाठ करते समय अपनी सभी चिंताओं को हनुमान जी के चरणों में समर्पित कर दें।"
+      }
+    ],
+    "day_7_pre": [
+      {
+        "time": 0.2,
+        "text": "दिन सात — जय हनुमान।"
+      },
+      {
+        "time": 2.8,
+        "text": "आज आपके संकल्प का सातवाँ दिन है।"
+      },
+      {
+        "time": 5.6,
+        "text": "एक सप्ताह की यह साधना आपके धैर्य और श्रद्धा का प्रमाण है।"
+      },
+      {
+        "time": 9.6,
+        "text": "आज हनुमान जी से प्रार्थना करें कि वे आपको शक्ति, साहस और सही मार्ग पर चलने का आशीर्वाद प्रदान करें।"
+      }
+    ],
+    "day_8_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन आठ — जय बजरंगबली।"
+      },
+      {
+        "time": 2.7,
+        "text": "आज आठवाँ दिन है।"
+      },
+      {
+        "time": 4.3,
+        "text": "हर दिन का यह पाठ आपके मन, बुद्धि और आत्मा को शुद्ध कर रहा है।"
+      },
+      {
+        "time": 8.8,
+        "text": "विश्वास रखें कि जो भी शुभ संकल्प आपने लिया है, वह अवश्य पूर्ण होगा।"
+      },
+      {
+        "time": 14.0,
+        "text": "पूरी श्रद्धा से आज की चालीसा का पाठ करें।"
+      }
+    ],
+    "day_9_pre": [
+      {
+        "time": 0.1,
+        "text": "दिन नौ — जय श्री राम।"
+      },
+      {
+        "time": 3.1,
+        "text": "आज आपके संकल्प का नौवाँ दिन है।"
+      },
+      {
+        "time": 5.6,
+        "text": "अब यह साधना आपके जीवन का एक सुंदर हिस्सा बनती जा रही है।"
+      },
+      {
+        "time": 9.5,
+        "text": "अपने मन में सकारात्मक विचार रखें और हनुमान जी की कृपा का अनुभव करें।"
+      },
+      {
+        "time": 14.3,
+        "text": "आपकी भक्ति व्यर्थ नहीं जाएगी।"
+      }
+    ],
+    "day_10_pre": [
+      {
+        "time": 0.5,
+        "text": "दिन दस — जय हनुमान।"
+      },
+      {
+        "time": 3.1,
+        "text": "आज आपके संकल्प का दसवाँ दिन है।"
+      },
+      {
+        "time": 5.9,
+        "text": "आपने अपने लक्ष्य की दिशा में एक महत्वपूर्ण पड़ाव पार कर लिया है।"
+      },
+      {
+        "time": 10.0,
+        "text": "स्वयं पर गर्व करें, लेकिन विनम्रता बनाए रखें।"
+      },
+      {
+        "time": 13.5,
+        "text": "आज हनुमान जी का स्मरण करते हुए अपने जीवन में शक्ति, बुद्धि और भक्ति का आह्वान करें।"
+      }
+    ],
+    "day_11_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन ग्यारह — जय श्री राम।"
+      },
+      {
+        "time": 2.6,
+        "text": "आज आपके पावन संकल्प का ग्यारहवाँ दिन है।"
+      },
+      {
+        "time": 5.6,
+        "text": "इन बीते दिनों में आपकी साधना धीरे-धीरे आपके मन को शांति और सकारात्मकता से भर रही है।"
+      },
+      {
+        "time": 12.2,
+        "text": "आज चालीसा का पाठ करते समय अपने मन को हनुमान जी के चरणों में समर्पित करें और उनकी कृपा पर विश्वास रखें।"
+      }
+    ],
+    "day_12_pre": [
+      {
+        "time": 0.1,
+        "text": "दिन बारह — जय हनुमान।"
+      },
+      {
+        "time": 2.5,
+        "text": "आज आपके संकल्प का बारहवाँ दिन है।"
+      },
+      {
+        "time": 5.2,
+        "text": "जीवन में कितनी भी परिस्थितियाँ आएँ, हनुमान जी का नाम हमें भीतर से मजबूत बनाता है।"
+      },
+      {
+        "time": 10.7,
+        "text": "आज अपने सभी भय और चिंताओं को उनके चरणों में अर्पित करें और पूरी श्रद्धा के साथ हनुमान चालीसा का पाठ करें।"
+      }
+    ],
+    "day_13_pre": [
+      {
+        "time": 0.4,
+        "text": "दिन तेरह — जय बजरंगबली।"
+      },
+      {
+        "time": 3.0,
+        "text": "आज आपकी साधना का तेरहवाँ दिन है।"
+      },
+      {
+        "time": 5.9,
+        "text": "हर दिन किया गया यह पाठ आपके संकल्प को और मजबूत बना रहा है।"
+      },
+      {
+        "time": 9.8,
+        "text": "अपने मन में विश्वास रखें कि हनुमान जी सदैव अपने भक्तों का मार्गदर्शन करते हैं।"
+      },
+      {
+        "time": 15.2,
+        "text": "आज शांत मन से उनकी आराधना करें।"
+      }
+    ],
+    "day_14_pre": [
+      {
+        "time": 0.1,
+        "text": "दिन चौदह — जय श्री राम।"
+      },
+      {
+        "time": 3.2,
+        "text": "आज आपके संकल्प का चौदहवाँ दिन है।"
+      },
+      {
+        "time": 6.0,
+        "text": "आपकी इस पावन साधना को दो सप्ताह पूरे हो चुके हैं।"
+      },
+      {
+        "time": 9.3,
+        "text": "यह केवल चालीसा पढ़ने की यात्रा नहीं, बल्कि अपने मन को भक्ति और विश्वास से जोड़ने की यात्रा है।"
+      },
+      {
+        "time": 15.4,
+        "text": "आज हनुमान जी का ध्यान करके पूरे भाव से पाठ करें।"
+      }
+    ],
+    "day_15_pre": [
+      {
+        "time": 0.2,
+        "text": "दिन पंद्रह — जय हनुमान।"
+      },
+      {
+        "time": 2.6,
+        "text": "आज आपके 40 दिनों के संकल्प का पंद्रहवाँ दिन है।"
+      },
+      {
+        "time": 6.9,
+        "text": "आपने अपनी साधना में एक और महत्वपूर्ण पड़ाव पूरा किया है।"
+      },
+      {
+        "time": 11.1,
+        "text": "हनुमान जी से प्रार्थना करें कि वे आपके जीवन से भय और नकारात्मकता को दूर करें और आपको शक्ति, बुद्धि और साहस प्रदान करें।"
+      }
+    ],
+    "day_16_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन सोलह — जय बजरंगबली।"
+      },
+      {
+        "time": 3.5,
+        "text": "आज आपकी साधना का सोलहवाँ दिन है।"
+      },
+      {
+        "time": 6.2,
+        "text": "जब भक्ति में निरंतरता आती है, तो मन भी धीरे-धीरे स्थिर होने लगता है।"
+      },
+      {
+        "time": 11.0,
+        "text": "आज अपने मन को सभी चिंताओं से मुक्त करें और हनुमान जी का नाम स्मरण करते हुए श्रद्धा और विश्वास के साथ चालीसा का पाठ करें।"
+      }
+    ],
+    "day_17_pre": [
+      {
+        "time": 0.3,
+        "text": "दिन सत्रह — जय श्री राम।"
+      },
+      {
+        "time": 3.5,
+        "text": "आज आपके संकल्प का सत्रहवाँ दिन है।"
+      },
+      {
+        "time": 6.7,
+        "text": "जीवन की राह में आने वाली हर चुनौती के सामने हनुमान जी से साहस माँगें।"
+      },
+      {
+        "time": 11.6,
+        "text": "आज चालीसा का पाठ करते समय अपने मन में यह विश्वास रखें कि प्रभु की भक्ति हमें कठिन समय में भी मजबूत बनाए रखती है।"
+      }
+    ],
+    "day_18_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन अठारह — जय हनुमान।"
+      },
+      {
+        "time": 2.7,
+        "text": "आज अठारहवाँ दिन है।"
+      },
+      {
+        "time": 4.3,
+        "text": "आपकी यह साधना अब धीरे-धीरे आपके दैनिक जीवन का एक सुंदर हिस्सा बन रही है।"
+      },
+      {
+        "time": 9.9,
+        "text": "आज कुछ क्षण अपने मन को शांत करें, हनुमान जी का ध्यान करें"
+      },
+      {
+        "time": 14.0,
+        "text": "और अपने संकल्प की पूर्ति के लिए पूरे भाव से चालीसा का पाठ करें।"
+      }
+    ],
+    "day_19_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन उन्नीस — जय बजरंगबली।"
+      },
+      {
+        "time": 2.3,
+        "text": "आज आपके संकल्प का उन्नीसवाँ दिन है।"
+      },
+      {
+        "time": 5.0,
+        "text": "आपकी श्रद्धा और निरंतरता ही इस साधना की सबसे बड़ी शक्ति है।"
+      },
+      {
+        "time": 8.8,
+        "text": "अपने मन में सकारात्मक विचार रखें, और जो भी चिंता या इच्छा आपके हृदय में है,"
+      },
+      {
+        "time": 14.0,
+        "text": "उसे हनुमान जी के चरणों में समर्पित करके आज का पाठ करें।"
+      }
+    ],
+    "day_20_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन बीस — जय श्री राम।"
+      },
+      {
+        "time": 2.0,
+        "text": "आज आपके 40 दिनों के संकल्प का बीसवाँ दिन है।"
+      },
+      {
+        "time": 5.2,
+        "text": "आपने इस पावन यात्रा का आधा पड़ाव पूरा कर लिया है।"
+      },
+      {
+        "time": 8.6,
+        "text": "पीछे मुड़कर देखें, तो आपकी श्रद्धा और निरंतरता स्वयं एक उपलब्धि है।"
+      },
+      {
+        "time": 13.0,
+        "text": "आज हनुमान जी से अपने जीवन में शक्ति, शांति और सद्बुद्धि की प्रार्थना करें।"
+      }
+    ],
+    "day_21_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन इक्कीस — जय हनुमान।"
+      },
+      {
+        "time": 2.0,
+        "text": "आज आपकी साधना का इक्कीसवाँ दिन है।"
+      },
+      {
+        "time": 4.6,
+        "text": "लगातार 21 दिनों तक भक्ति और श्रद्धा से किया गया यह प्रयास आपके संकल्प को और मजबूत कर रहा है।"
+      },
+      {
+        "time": 12.4,
+        "text": "आज अपने मन को शांत रखें और हनुमान जी के चरणों में अपनी सभी इच्छाएँ और भाव समर्पित कर दें।"
+      }
+    ],
+    "day_22_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन बाईस — जय बजरंगबली।"
+      },
+      {
+        "time": 2.3,
+        "text": "आज आपके संकल्प का बाईसवाँ दिन है।"
+      },
+      {
+        "time": 4.8,
+        "text": "हर दिन हनुमान जी का स्मरण हमें अपने भीतर की शक्ति को पहचानने का अवसर देता है।"
+      },
+      {
+        "time": 10.7,
+        "text": "आज चालीसा का पाठ करते समय अपने मन में श्रद्धा, विश्वास और सकारात्मकता रखें और प्रभु का आशीर्वाद प्राप्त करें।"
+      }
+    ],
+    "day_23_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन तेईस — जय श्री राम।"
+      },
+      {
+        "time": 1.9,
+        "text": "आज आपकी साधना का तेईसवाँ दिन है।"
+      },
+      {
+        "time": 4.5,
+        "text": "जीवन में जब कभी मन परेशान हो या रास्ता कठिन लगे,"
+      },
+      {
+        "time": 9.3,
+        "text": "तो हनुमान जी का नाम विश्वास के साथ लें।"
+      },
+      {
+        "time": 11.7,
+        "text": "आज की चालीसा आपके मन में साहस और शांति का भाव जगाए — इसी प्रार्थना के साथ पाठ करें।"
+      }
+    ],
+    "day_24_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन चौबीस — जय हनुमान।"
+      },
+      {
+        "time": 1.4,
+        "text": "आज आपके संकल्प का चौबीसवाँ दिन है।"
+      },
+      {
+        "time": 4.1,
+        "text": "आपकी यह भक्ति यात्रा अब और गहरी होती जा रही है।"
+      },
+      {
+        "time": 7.6,
+        "text": "आज कुछ समय अपने लिए निकालें, अपने मन को शांत करें"
+      },
+      {
+        "time": 10.9,
+        "text": "और हनुमान जी से प्रार्थना करें कि वे आपको हर सही निर्णय में शक्ति और सद्बुद्धि प्रदान करें।"
+      }
+    ],
+    "day_25_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन पच्चीस — जय बजरंगबली।"
+      },
+      {
+        "time": 2.1,
+        "text": "आज आपकी 40 दिनों की साधना का पच्चीसवाँ दिन है।"
+      },
+      {
+        "time": 6.5,
+        "text": "अब आपकी यात्रा अपने अंतिम चरण की ओर बढ़ रही है।"
+      },
+      {
+        "time": 10.2,
+        "text": "इन दिनों में आपने जो श्रद्धा और विश्वास अपने भीतर जगाया है, उसे हमेशा बनाए रखें।"
+      },
+      {
+        "time": 15.5,
+        "text": "आज पूरी निष्ठा से हनुमान चालीसा का पाठ करें।"
+      }
+    ],
+    "day_26_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन छब्बीस — जय श्री राम।"
+      },
+      {
+        "time": 2.7,
+        "text": "आज आपके संकल्प का छब्बीसवाँ दिन है।"
+      },
+      {
+        "time": 5.3,
+        "text": "हर दिन हनुमान जी का नाम लेना आपके मन को एक नई सकारात्मक ऊर्जा से भर सकता है।"
+      },
+      {
+        "time": 10.6,
+        "text": "आज अपने जीवन की सभी परेशानियों को प्रभु के चरणों में छोड़कर शांत मन और पूर्ण श्रद्धा के साथ चालीसा का पाठ करें।"
+      }
+    ],
+    "day_27_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन सत्ताईस — जय हनुमान।"
+      },
+      {
+        "time": 2.3,
+        "text": "आज आपकी साधना का सत्ताईसवाँ दिन है।"
+      },
+      {
+        "time": 5.4,
+        "text": "आपने इस पावन यात्रा में निरंतर बने रहकर अपने संकल्प को मजबूत किया है।"
+      },
+      {
+        "time": 10.6,
+        "text": "आज हनुमान जी से प्रार्थना करें कि वे आपके जीवन में साहस, धैर्य और भक्ति को हमेशा बनाए रखें और आपको सही मार्ग दिखाएँ।"
+      }
+    ],
+    "day_28_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन अट्ठाईस — जय बजरंगबली।"
+      },
+      {
+        "time": 2.3,
+        "text": "आज आपके संकल्प का अट्ठाईसवाँ दिन है।"
+      },
+      {
+        "time": 4.9,
+        "text": "आपकी चालीसा साधना को 4 सप्ताह पूरे हो चुके हैं।"
+      },
+      {
+        "time": 8.6,
+        "text": "यह निरंतरता आपकी श्रद्धा का सुंदर प्रमाण है।"
+      },
+      {
+        "time": 12.0,
+        "text": "आज अपने मन को हनुमान जी के चरणों में लगाइए और पूरे विश्वास के साथ उनकी आराधना करें।"
+      }
+    ],
+    "day_29_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन उनतीस — जय श्री राम।"
+      },
+      {
+        "time": 2.5,
+        "text": "आज आपकी साधना का उनतीसवाँ दिन है।"
+      },
+      {
+        "time": 5.2,
+        "text": "अब इस पावन संकल्प की मंज़िल धीरे-धीरे करीब आ रही है,"
+      },
+      {
+        "time": 9.1,
+        "text": "लेकिन यात्रा के अंतिम दिनों में भी अपनी श्रद्धा और अनुशासन को बनाए रखें।"
+      },
+      {
+        "time": 13.8,
+        "text": "आज हनुमान जी का ध्यान करते हुए पूरे भक्ति भाव से चालीसा का पाठ करें।"
+      }
+    ],
+    "day_30_pre": [
+      {
+        "time": 0.1,
+        "text": "दिन तीस — जय हनुमान।"
+      },
+      {
+        "time": 2.3,
+        "text": "आज आपके चालीस दिनों के संकल्प का तीसवाँ दिन है।"
+      },
+      {
+        "time": 5.8,
+        "text": "आपने इस साधना के तीन-चौथाई चरण को पूरा कर लिया है।"
+      },
+      {
+        "time": 9.7,
+        "text": "यह आपके विश्वास और निरंतर प्रयास का सुंदर प्रमाण है।"
+      },
+      {
+        "time": 13.6,
+        "text": "आज हनुमान जी से प्रार्थना करें कि वे आपके जीवन में शक्ति, बुद्धि और भक्ति का प्रकाश बनाए रखें।"
+      }
+    ],
+    "day_31_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन इकतीस — जय बजरंगबली।"
+      },
+      {
+        "time": 2.6,
+        "text": "आज आपकी साधना का इकतीसवाँ दिन है।"
+      },
+      {
+        "time": 5.5,
+        "text": "अब यह पावन यात्रा अपने अंतिम चरण में प्रवेश कर चुकी है।"
+      },
+      {
+        "time": 9.7,
+        "text": "इन दिनों में हनुमान जी के साथ जो भक्ति और विश्वास का संबंध बना है, उसे अपने जीवन में आगे भी बनाए रखें।"
+      },
+      {
+        "time": 16.9,
+        "text": "आज पूरे मन से चालीसा का पाठ करें।"
+      }
+    ],
+    "day_32_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन बत्तीस — जय श्री राम।"
+      },
+      {
+        "time": 2.4,
+        "text": "आज आपके संकल्प का बत्तीसवाँ दिन है।"
+      },
+      {
+        "time": 5.0,
+        "text": "आपकी नियमित साधना अब आपके जीवन में एक सुंदर आध्यात्मिक अनुशासन बन चुकी है।"
+      },
+      {
+        "time": 10.7,
+        "text": "आज हनुमान जी का स्मरण करते हुए अपने मन को शांत करें और उनके चरणों में अपनी श्रद्धा अर्पित करके चालीसा का पाठ करें।"
+      }
+    ],
+    "day_33_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन तैंतीस — जय हनुमान।"
+      },
+      {
+        "time": 1.8,
+        "text": "आज आपकी चालीसा साधना का तैंतीसवाँ दिन है।"
+      },
+      {
+        "time": 4.7,
+        "text": "अब इस पावन संकल्प के कुछ ही दिन शेष हैं।"
+      },
+      {
+        "time": 7.9,
+        "text": "अपने मन में किसी भी प्रकार का संदेह न रखें और हनुमान जी पर अपना विश्वास बनाए रखें।"
+      },
+      {
+        "time": 13.6,
+        "text": "आज उनसे साहस, शांति और सद्बुद्धि का आशीर्वाद माँगें।"
+      }
+    ],
+    "day_34_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन चौंतीस — जय बजरंगबली।"
+      },
+      {
+        "time": 2.3,
+        "text": "आज आपके संकल्प का चौंतीसवाँ दिन है।"
+      },
+      {
+        "time": 4.9,
+        "text": "आपकी भक्ति की यह यात्रा अब एक महत्वपूर्ण पड़ाव पर पहुँच चुकी है।"
+      },
+      {
+        "time": 9.3,
+        "text": "आज हनुमान जी के प्रति अपने मन में कृतज्ञता का भाव रखें और प्रार्थना करें कि उनकी कृपा और आशीर्वाद सदैव आपके जीवन में बना रहे।"
+      }
+    ],
+    "day_35_pre": [
+      {
+        "time": 0.1,
+        "text": "दिन पैंतीस — जय श्री राम।"
+      },
+      {
+        "time": 3.0,
+        "text": "आज आपकी साधना का पैंतीसवाँ दिन है।"
+      },
+      {
+        "time": 6.0,
+        "text": "अब इस 40 दिनों के पावन संकल्प को पूरा होने में कुछ ही दिन बाकी हैं।"
+      },
+      {
+        "time": 11.0,
+        "text": "अपनी श्रद्धा को और मजबूत करें और हनुमान जी के चरणों में अपने मन की सभी भावनाएँ समर्पित करें।"
+      }
+    ],
+    "day_36_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन छत्तीस — जय हनुमान।"
+      },
+      {
+        "time": 1.7,
+        "text": "आज आपके संकल्प का छत्तीसवाँ दिन है।"
+      },
+      {
+        "time": 4.3,
+        "text": "इन दिनों की साधना ने आपको भक्ति, विश्वास और निरंतरता की एक सुंदर यात्रा से जोड़ा है।"
+      },
+      {
+        "time": 9.7,
+        "text": "अब अंतिम कुछ दिनों में भी अपने संकल्प को पूरी श्रद्धा से निभाएँ"
+      },
+      {
+        "time": 14.0,
+        "text": "और हनुमान जी का स्मरण करते हुए आज का पाठ करें।"
+      }
+    ],
+    "day_37_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन सैंतीस — जय बजरंगबली।"
+      },
+      {
+        "time": 2.6,
+        "text": "आज आपकी चालीसा साधना का सैंतीसवाँ दिन है।"
+      },
+      {
+        "time": 5.6,
+        "text": "आपने इस पावन यात्रा में बहुत लंबा सफ़र तय किया है, और अब मंज़िल बहुत करीब है।"
+      },
+      {
+        "time": 11.4,
+        "text": "आज हनुमान जी के चरणों में अपना विश्वास रखें और उनसे अपने जीवन में शक्ति और साहस की प्रार्थना करें।"
+      }
+    ],
+    "day_38_pre": [
+      {
+        "time": 0.0,
+        "text": "जय श्री राम।"
+      },
+      {
+        "time": 2.3,
+        "text": "आज आपके संकल्प का अड़तीसवाँ दिन है।"
+      },
+      {
+        "time": 5.3,
+        "text": "अब 40 दिनों की यह पावन साधना अपने अंतिम पड़ाव पर पहुँच रही है।"
+      },
+      {
+        "time": 9.7,
+        "text": "इन दिनों में मिले भक्ति के अनुभव को अपने हृदय में संजोकर रखें।"
+      },
+      {
+        "time": 13.5,
+        "text": "आज हनुमान जी का ध्यान करें और पूरी श्रद्धा से चालीसा का पाठ करें।"
+      }
+    ],
+    "day_39_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन उनतालीस — जय हनुमान।"
+      },
+      {
+        "time": 2.5,
+        "text": "आज आपके 40 दिनों के संकल्प का उनतालीसवाँ दिन है।"
+      },
+      {
+        "time": 7.0,
+        "text": "बस एक दिन और, और आपकी यह पावन साधना पूर्ण हो जाएगी।"
+      },
+      {
+        "time": 11.0,
+        "text": "आज अपने पूरे सफ़र के लिए हनुमान जी को धन्यवाद दें और कल के अंतिम दिन के लिए भी अपना मन, श्रद्धा और विश्वास से तैयार करें।"
+      }
+    ],
+    "day_40_pre": [
+      {
+        "time": 0.0,
+        "text": "दिन चालीस — जय बजरंगबली।"
+      },
+      {
+        "time": 3.4,
+        "text": "आज आपके 40 दिनों के हनुमान चालीसा संकल्प का पावन अंतिम दिन है।"
+      },
+      {
+        "time": 8.3,
+        "text": "इन 40 दिनों में आपने श्रद्धा, अनुशासन और विश्वास के साथ यह यात्रा पूरी की है।"
+      },
+      {
+        "time": 13.9,
+        "text": "आज हनुमान जी के चरणों में अपना संकल्प समर्पित करें, उनका धन्यवाद करें"
+      },
+      {
+        "time": 18.0,
+        "text": "और प्रार्थना करें कि उनकी कृपा सदैव आपके जीवन में बनी रहे।"
+      },
+      {
+        "time": 22.5,
+        "text": "जय हनुमान। जय श्री राम।"
+      }
+    ],
+    "final_after_40_days_stuti": [
+      {
+        "time": 0.0,
+        "text": "जय श्री राम। जय हनुमान।"
+      },
+      {
+        "time": 3.0,
+        "text": "आज आपके 40 दिनों के हनुमान चालीसा संकल्प की यात्रा पूर्ण हुई है।"
+      },
+      {
+        "time": 8.1,
+        "text": "इन 40 दिनों में आपने केवल चालीसा का पाठ नहीं किया,"
+      },
+      {
+        "time": 12.3,
+        "text": "बल्कि हर दिन अपने मन को हनुमान जी के चरणों से जोड़ने का प्रयास किया है।"
+      },
+      {
+        "time": 16.8,
+        "text": "कभी मन शांत रहा होगा, कभी परेशान भी हुआ होगा,"
+      },
+      {
+        "time": 21.9,
+        "text": "लेकिन आपने अपना संकल्प नहीं छोड़ा।"
+      },
+      {
+        "time": 24.6,
+        "text": "यही आपकी श्रद्धा, आपकी निष्ठा और आपकी भक्ति की सबसे सुंदर पहचान है।"
+      },
+      {
+        "time": 30.0,
+        "text": "आज इस पावन अवसर पर अपने मन की सभी भावनाएँ, अपनी प्रार्थनाएँ और अपनी इच्छाएँ हनुमान जी के चरणों में समर्पित कर दीजिए।"
+      },
+      {
+        "time": 38.5,
+        "text": "प्रभु से प्रार्थना कीजिए कि आपके जीवन में हमेशा साहस रहे, सद्बुद्धि रहे, सकारात्मकता रहे और भक्ति बनी रहे।"
+      },
+      {
+        "time": 47.7,
+        "text": "याद रखिए, चालीस दिन पूरे होना इस यात्रा का अंत नहीं है,"
+      },
+      {
+        "time": 53.3,
+        "text": "बल्कि हनुमान जी के नाम से जुड़ने की एक नई शुरुआत है।"
+      },
+      {
+        "time": 57.5,
+        "text": "इस भक्ति को अपने जीवन का हिस्सा बनाए रखें।"
+      },
+      {
+        "time": 60.7,
+        "text": "हनुमान जी का नाम लेते रहें, हनुमान चालीसा का पाठ करते रहें और अपने कर्मों में श्रद्धा बनाए रखें।"
+      },
+      {
+        "time": 68.6,
+        "text": "हनुमान जी की कृपा आपके और आपके परिवार पर सदैव बनी रहे।"
+      },
+      {
+        "time": 73.6,
+        "text": "जय बजरंगबली। जय श्री राम।"
+      }
+    ]
+  }
+}
