@@ -28,7 +28,7 @@ export const PLANS: Record<PlanId, Plan> = {
   trial: { id: 'trial', label: '3-दिन ट्रायल', tagline: 'पहले 3 दिन आज़माएं', pricePaise: 1100, durationDays: null, dayLimit: 3, canRestart: false },
   full: { id: 'full', label: '40-दिन साधना', tagline: 'पूरी 40 दिन की साधना, एक बार', pricePaise: 37900, durationDays: null, dayLimit: SADHANA_DAYS, canRestart: false },
   yearly: { id: 'yearly', label: '1 साल एक्सेस', tagline: '1 साल तक, जितनी बार चाहें दोहराएं', pricePaise: 48900, durationDays: 365, dayLimit: SADHANA_DAYS, canRestart: true },
-  lifetime: { id: 'lifetime', label: 'Lifetime', tagline: 'जीवनभर पहुंच + जितनी बार चाहें दोहराएं', pricePaise: 100 /* TEST: asli daam 89900 — test ke baad wapas karna */, durationDays: null, dayLimit: SADHANA_DAYS, canRestart: true },
+  lifetime: { id: 'lifetime', label: 'Lifetime', tagline: 'जीवनभर पहुंच + जितनी बार चाहें दोहराएं', pricePaise: 89900, durationDays: null, dayLimit: SADHANA_DAYS, canRestart: true },
 };
 
 // Purchasable plans, lowest to highest rank.
