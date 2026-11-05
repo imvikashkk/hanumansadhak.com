@@ -199,7 +199,7 @@ export default function SignupForm({
       {step === 1 && (
         <p className="flex min-h-11 items-center justify-center gap-1.5 text-center text-base text-[var(--muted-foreground)]">
           पहले से साधक हैं?
-          <Link href="/login" className="font-bold text-[var(--gold)] underline underline-offset-4">Login करें</Link>
+          <Link href="/login" prefetch className="font-bold text-[var(--gold)] underline underline-offset-4">Login करें</Link>
         </p>
       )}
     </form>

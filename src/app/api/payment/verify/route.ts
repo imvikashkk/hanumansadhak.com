@@ -27,26 +27,24 @@ export async function POST(req: NextRequest) {
   if (!payment || payment.user_id !== session.userId) {
     return NextResponse.json({ error: 'Order not found' }, { status: 404 });
   }
-  if (payment.status === 'success') return NextResponse.json({ success: true });
-
   const expected = crypto
     .createHmac('sha256', process.env.RAZORPAY_KEY_SECRET!)
     .update(`${razorpay_order_id}|${razorpay_payment_id}`)
     .digest('hex');
   if (expected !== razorpay_signature) {
-    await query(`UPDATE payments SET status='failed' WHERE id=$1`, [payment.id]);
+    // Never undo a payment already recorded as successful.
+    await query(`UPDATE payments SET status='failed' WHERE id=$1 AND status<>'success'`, [payment.id]);
     return NextResponse.json({ error: 'Signature verification failed' }, { status: 400 });
   }
 
-  // The webhook can race this route: only whichever one flips the status sends the SMS.
-  const updated = await query(
-    `UPDATE payments SET razorpay_payment_id=$1, razorpay_signature=$2, status='success'
-     WHERE id=$3 AND status<>'success' RETURNING id`,
+  await query(
+    `UPDATE payments SET razorpay_payment_id=$1, razorpay_signature=$2, status='success' WHERE id=$3`,
     [razorpay_payment_id, razorpay_signature, payment.id]
   );
+  // Always granted, even if a webhook marked this payment successful first: that webhook may be the
+  // old app's, which doesn't grant the plan here. Whichever call really grants it sends the SMS.
   if (isValidPlan(payment.plan)) {
-    await grantSubscription(session.userId, payment.plan);
-    if (updated.length) await notifyPurchase(session.userId);
+    if (await grantSubscription(session.userId, payment.plan)) await notifyPurchase(session.userId);
   } else console.error('Payment for unknown plan', payment.plan, payment.id);
 
   return NextResponse.json({ success: true });

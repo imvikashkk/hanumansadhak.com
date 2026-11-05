@@ -5,16 +5,18 @@ import { query } from './db';
 //
 // Schema setup is idempotent but runs ~20 statements, so it's done once per
 // server process; a failed run clears the memo so the next request retries.
-let migration: Promise<void> | null = null;
+// Kept on globalThis because `npm run dev` reloads this module on every edit, which would otherwise
+// run all of it against the remote database again and make each page feel slow.
+const memo = globalThis as typeof globalThis & { hsMigration?: Promise<void> | null };
 
 export function migrate(): Promise<void> {
-  if (!migration) {
-    migration = runMigrations().catch((err) => {
-      migration = null;
+  if (!memo.hsMigration) {
+    memo.hsMigration = runMigrations().catch((err) => {
+      memo.hsMigration = null;
       throw err;
     });
   }
-  return migration;
+  return memo.hsMigration;
 }
 
 async function runMigrations() {

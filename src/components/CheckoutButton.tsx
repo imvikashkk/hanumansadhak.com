@@ -31,6 +31,7 @@ export default function CheckoutButton({ placement, children, size = 'lg', tone 
   return (
     <Link
       href={SITE.joinUrl}
+      prefetch // the page's main action: loaded ahead, so the tap opens signup at once, even on slow networks
       onClick={() => track('InitiateCheckout', { ...PRODUCT_PARAMS, placement })}
       className={`cta-shine inline-flex items-center justify-center gap-2 font-bold transition-transform hover:scale-[1.03] active:scale-[0.98] ${TONES[tone]} ${SIZES[size]} ${className}`}
     >

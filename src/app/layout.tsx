@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import { Hind, Rozha_One } from 'next/font/google';
 import { MandalaDefs } from '@/components/CreamDecor';
 import MetaPixel from '@/components/MetaPixel';
+import NavigationProgress from '@/components/NavigationProgress';
 import { SITE } from '@/data/site';
 import { TEXT_SIZE_KEY, TEXT_SIZES } from '@/lib/text-size';
 import './globals.css';
@@ -41,6 +42,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-full">
         <MandalaDefs />
         <MetaPixel />
+        <NavigationProgress />
         {children}
       </body>
     </html>

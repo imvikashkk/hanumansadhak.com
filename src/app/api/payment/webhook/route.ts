@@ -41,9 +41,7 @@ export async function POST(req: NextRequest) {
   );
   const payment = payments[0];
   // Orders of other products (old app, same database) are that app's webhook's job.
-  if (!payment || payment.product !== PRODUCT || payment.status === 'success') {
-    return NextResponse.json({ success: true });
-  }
+  if (!payment || payment.product !== PRODUCT) return NextResponse.json({ success: true });
 
   if (body.event === 'payment.failed') {
     // Only downgrade a still-pending order — a later retry on the same order may have succeeded.
@@ -51,14 +49,12 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ success: true });
   }
 
-  // /api/payment/verify can race this route: only whichever one flips the status sends the SMS.
-  const updated = await query(
-    `UPDATE payments SET razorpay_payment_id=$1, status='success' WHERE id=$2 AND status<>'success' RETURNING id`,
-    [paymentId, payment.id]
-  );
+  if (payment.status !== 'success') {
+    await query(`UPDATE payments SET razorpay_payment_id=$1, status='success' WHERE id=$2`, [paymentId, payment.id]);
+  }
+  // Always granted (see /api/payment/verify). Whichever call really grants it sends the SMS.
   if (isValidPlan(payment.plan)) {
-    await grantSubscription(payment.user_id, payment.plan);
-    if (updated.length) await notifyPurchase(payment.user_id);
+    if (await grantSubscription(payment.user_id, payment.plan)) await notifyPurchase(payment.user_id);
   } else console.error('Payment for unknown plan', payment.plan, payment.id);
 
   return NextResponse.json({ success: true });

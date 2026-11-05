@@ -292,6 +292,15 @@
   #certificate, #certificate * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 }
 
+/* Page-change bar: holds off briefly so instant changes don't flash it, then creeps towards the end. */
+@keyframes nav-progress {
+  0%, 12% { width: 0; }
+  30% { width: 45%; }
+  100% { width: 92%; }
+}
+.nav-progress { animation: nav-progress 8s cubic-bezier(0.1, 0.7, 0.2, 1) forwards; }
+@media (prefers-reduced-motion: reduce) { .nav-progress { animation: none; width: 60%; } }
+
 /* PauseOffscreen marks sections that are off screen — freeze their decorative animations. */
 [data-paused] *,
 [data-paused] *::before,

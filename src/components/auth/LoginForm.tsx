@@ -155,7 +155,7 @@ export default function LoginForm({ next = '/sadhana' }: { next?: string }) {
 
       <p className="flex min-h-11 items-center justify-center gap-1.5 text-center text-base text-[var(--muted-foreground)]">
         नए साधक हैं?
-        <Link href="/signup" className="font-bold text-[var(--gold)] underline underline-offset-4">Signup करें</Link>
+        <Link href="/signup" prefetch className="font-bold text-[var(--gold)] underline underline-offset-4">Signup करें</Link>
       </p>
     </div>
   );

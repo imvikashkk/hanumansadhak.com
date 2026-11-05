@@ -43,7 +43,7 @@ export default function DarshanShell({
         <div className="lg:grid lg:min-h-[calc(100svh-var(--nav-h))] lg:grid-cols-[minmax(0,0.85fr)_minmax(0,1.15fr)]">
           {/* the darshan */}
           <aside className="relative h-44 sm:h-60 lg:h-auto">
-            <div className="hero-zoom absolute inset-0 [mask-image:linear-gradient(to_bottom,black_50%,transparent)] lg:[mask-image:linear-gradient(to_right,black_55%,transparent_97%)]">
+            <div className="absolute inset-0 [mask-image:linear-gradient(to_bottom,black_50%,transparent)] lg:[mask-image:linear-gradient(to_right,black_55%,transparent_97%)]">
               <Image src={hero} alt={heroAlt} fill priority placeholder="blur" sizes="(min-width: 1024px) 50vw, 100vw" className="object-cover" style={{ objectPosition: heroPosition }} />
               <div className="absolute inset-0 hidden bg-gradient-to-t from-[var(--background)] from-5% via-[var(--background)]/60 via-35% to-transparent to-65% lg:block" />
             </div>
@@ -60,10 +60,10 @@ export default function DarshanShell({
           {/* the form */}
           <div className="relative mx-auto -mt-12 w-full max-w-xl px-4 lg:max-w-2xl xl:max-w-3xl pb-10 sm:-mt-14 sm:px-6 lg:mt-0 lg:flex lg:flex-col lg:justify-center lg:py-4">
             <div className="text-center">
-              <span className="hero-in hidden items-center gap-1.5 rounded-full border border-[var(--gold)] lg:inline-flex lg:[@media(max-height:820px)]:hidden bg-gradient-to-b from-[#9b2c1c] to-[var(--maroon)] px-4 py-1 text-sm font-bold text-[#fff1cf] shadow-[inset_0_1px_0_rgb(255_255_255/0.2)]">
+              <span className="hidden items-center gap-1.5 rounded-full border border-[var(--gold)] lg:inline-flex lg:[@media(max-height:820px)]:hidden bg-gradient-to-b from-[#9b2c1c] to-[var(--maroon)] px-4 py-1 text-sm font-bold text-[#fff1cf] shadow-[inset_0_1px_0_rgb(255_255_255/0.2)]">
                 <Icon name={ribbonIcon} className="text-[#f7d77a]" /> {ribbon}
               </span>
-              <h1 className="hero-in font-display text-[2.25rem] leading-[1.15] [animation-delay:80ms] [text-shadow:0_3px_18px_black] sm:text-5xl lg:mt-2">{title}</h1>
+              <h1 className="font-display text-[2.25rem] leading-[1.15] [text-shadow:0_3px_18px_black] sm:text-5xl lg:mt-2">{title}</h1>
               <div className="mt-1 hidden items-center justify-center gap-2 text-[var(--gold)] lg:flex lg:[@media(max-height:790px)]:hidden" aria-hidden="true">
                 <span className="h-px w-16 bg-gradient-to-r from-transparent to-[var(--gold)]" />
                 <span className="h-1.5 w-1.5 rotate-45 bg-[var(--gold)]" />
